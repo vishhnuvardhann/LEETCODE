@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 7 (Easy: 0, Medium: 4, Hard: 3)
+Solved: 8 (Easy: 0, Medium: 4, Hard: 4)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -12,4 +12,5 @@ Solved: 7 (Easy: 0, Medium: 4, Hard: 3)
 | 1520 | [Maximum Number of Non-Overlapping Substrings](1520-maximum-number-of-non-overlapping-substrings/) | Hard | 2026-09-29 |
 | 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/) | Medium | 2026-09-29 |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-09-29 |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 2026-09-29 |
 <!-- LEETHUB:TABLE:END -->
