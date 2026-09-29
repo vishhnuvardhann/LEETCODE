@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 6 (Easy: 0, Medium: 3, Hard: 3)
+Solved: 7 (Easy: 0, Medium: 4, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -9,6 +9,7 @@ Solved: 6 (Easy: 0, Medium: 3, Hard: 3)
 | 2267 | [ Check if There Is a Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | 2026-09-29 |
 | 1401 | [Circle and Rectangle Overlapping](1401-circle-and-rectangle-overlapping/) | Medium | 2026-09-29 |
 | 3524 | [Find X Value of Array I](3524-find-x-value-of-array-i/) | Medium | 2026-09-29 |
-| 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/) | Medium | 2026-09-29 |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](1520-maximum-number-of-non-overlapping-substrings/) | Hard | 2026-09-29 |
+| 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/) | Medium | 2026-09-29 |
+| 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-09-29 |
 <!-- LEETHUB:TABLE:END -->
