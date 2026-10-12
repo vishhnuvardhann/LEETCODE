@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 17 (Easy: 1, Medium: 9, Hard: 7)
+Solved: 18 (Easy: 2, Medium: 9, Hard: 7)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -22,4 +22,5 @@ Solved: 17 (Easy: 1, Medium: 9, Hard: 7)
 | 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/) | Medium | 2026-10-12 |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-10-12 |
 | 19 | [Remove Nth Node From End of List](19-remove-nth-node-from-end-of-list/) | Medium | 2026-10-12 |
+| 21 | [Merge Two Sorted Lists](21-merge-two-sorted-lists/) | Easy | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
