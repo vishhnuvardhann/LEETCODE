@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 22 (Easy: 2, Medium: 10, Hard: 9)
+Solved: 23 (Easy: 2, Medium: 11, Hard: 9)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -25,6 +25,7 @@ Solved: 22 (Easy: 2, Medium: 10, Hard: 9)
 | 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/) | Medium | 2026-10-12 |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-10-12 |
 | 19 | [Remove Nth Node From End of List](19-remove-nth-node-from-end-of-list/) | Medium | 2026-10-12 |
-|  | [swap-nodes-in-pairs](swap-nodes-in-pairs/) | Unknown | 2026-10-12 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-10-12 |
+|  | [swap-nodes-in-pairs](swap-nodes-in-pairs/) | Unknown | 2026-10-12 |
+| 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
