@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 19 (Easy: 2, Medium: 9, Hard: 8)
+Solved: 20 (Easy: 2, Medium: 9, Hard: 8)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -19,9 +19,10 @@ Solved: 19 (Easy: 2, Medium: 9, Hard: 8)
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 2026-10-12 |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](1520-maximum-number-of-non-overlapping-substrings/) | Hard | 2026-10-12 |
 | 3414 | [Maximum Score of Non-overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals/) | Hard | 2026-10-12 |
+| 23 | [Merge k Sorted Lists](23-merge-k-sorted-lists/) | Hard | 2026-10-12 |
 | 21 | [Merge Two Sorted Lists](21-merge-two-sorted-lists/) | Easy | 2026-10-12 |
 | 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/) | Medium | 2026-10-12 |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-10-12 |
 | 19 | [Remove Nth Node From End of List](19-remove-nth-node-from-end-of-list/) | Medium | 2026-10-12 |
-| 23 | [Merge k Sorted Lists](23-merge-k-sorted-lists/) | Hard | 2026-10-12 |
+|  | [swap-nodes-in-pairs](swap-nodes-in-pairs/) | Unknown | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
