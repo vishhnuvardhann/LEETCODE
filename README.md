@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 25 (Easy: 2, Medium: 13, Hard: 9)
+Solved: 26 (Easy: 2, Medium: 13, Hard: 10)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -28,6 +28,7 @@ Solved: 25 (Easy: 2, Medium: 13, Hard: 9)
 | 19 | [Remove Nth Node From End of List](19-remove-nth-node-from-end-of-list/) | Medium | 2026-10-12 |
 | 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-10-12 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-10-12 |
-|  | [swap-nodes-in-pairs](swap-nodes-in-pairs/) | Unknown | 2026-10-12 |
 | 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-12 |
+|  | [swap-nodes-in-pairs](swap-nodes-in-pairs/) | Unknown | 2026-10-12 |
+| 239 | [Sliding Window Maximum](239-sliding-window-maximum/) | Hard | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
