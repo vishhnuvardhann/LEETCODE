@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 28 (Easy: 2, Medium: 15, Hard: 10)
+Solved: 29 (Easy: 2, Medium: 16, Hard: 10)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -15,6 +15,7 @@ Solved: 28 (Easy: 2, Medium: 15, Hard: 10)
 | 622 | [Design Circular Queue](622-design-circular-queue/) | Medium | 2026-10-12 |
 | 115 | [Distinct Subsequences](115-distinct-subsequences/) | Hard | 2026-10-12 |
 | 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | Hard | 2026-10-12 |
+| 649 | [Dota2 Senate](649-dota2-senate/) | Medium | 2026-10-12 |
 | 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-12 |
 | 3524 | [Find X Value of Array I](3524-find-x-value-of-array-i/) | Medium | 2026-10-12 |
 | 835 | [Image Overlap](835-image-overlap/) | Medium | 2026-10-12 |
@@ -32,5 +33,5 @@ Solved: 28 (Easy: 2, Medium: 15, Hard: 10)
 | 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-12 |
 | 239 | [Sliding Window Maximum](239-sliding-window-maximum/) | Hard | 2026-10-12 |
 |  | [swap-nodes-in-pairs](swap-nodes-in-pairs/) | Unknown | 2026-10-12 |
-| 649 | [Dota2 Senate](649-dota2-senate/) | Medium | 2026-10-12 |
+| 15 | [3Sum](15-3sum/) | Medium | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
