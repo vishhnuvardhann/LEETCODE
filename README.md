@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 26 (Easy: 2, Medium: 13, Hard: 10)
+Solved: 27 (Easy: 2, Medium: 14, Hard: 10)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -29,6 +29,7 @@ Solved: 26 (Easy: 2, Medium: 13, Hard: 10)
 | 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-10-12 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-10-12 |
 | 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-12 |
-|  | [swap-nodes-in-pairs](swap-nodes-in-pairs/) | Unknown | 2026-10-12 |
 | 239 | [Sliding Window Maximum](239-sliding-window-maximum/) | Hard | 2026-10-12 |
+|  | [swap-nodes-in-pairs](swap-nodes-in-pairs/) | Unknown | 2026-10-12 |
+| 622 | [Design Circular Queue](622-design-circular-queue/) | Medium | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
