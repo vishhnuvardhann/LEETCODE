@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 27 (Easy: 2, Medium: 14, Hard: 10)
+Solved: 28 (Easy: 2, Medium: 15, Hard: 10)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -12,6 +12,7 @@ Solved: 27 (Easy: 2, Medium: 14, Hard: 10)
 | 3876 | [Construct Uniform Parity Array II](3876-construct-uniform-parity-array-ii/) | Medium | 2026-10-12 |
 | 3870 | [Count Commas in Range](3870-count-commas-in-range/) | Easy | 2026-10-12 |
 | 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-10-12 |
+| 622 | [Design Circular Queue](622-design-circular-queue/) | Medium | 2026-10-12 |
 | 115 | [Distinct Subsequences](115-distinct-subsequences/) | Hard | 2026-10-12 |
 | 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | Hard | 2026-10-12 |
 | 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-12 |
@@ -31,5 +32,5 @@ Solved: 27 (Easy: 2, Medium: 14, Hard: 10)
 | 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-12 |
 | 239 | [Sliding Window Maximum](239-sliding-window-maximum/) | Hard | 2026-10-12 |
 |  | [swap-nodes-in-pairs](swap-nodes-in-pairs/) | Unknown | 2026-10-12 |
-| 622 | [Design Circular Queue](622-design-circular-queue/) | Medium | 2026-10-12 |
+| 649 | [Dota2 Senate](649-dota2-senate/) | Medium | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
