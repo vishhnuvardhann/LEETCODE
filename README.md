@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 23 (Easy: 2, Medium: 11, Hard: 9)
+Solved: 24 (Easy: 2, Medium: 12, Hard: 9)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -14,6 +14,7 @@ Solved: 23 (Easy: 2, Medium: 11, Hard: 9)
 | 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-10-12 |
 | 115 | [Distinct Subsequences](115-distinct-subsequences/) | Hard | 2026-10-12 |
 | 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | Hard | 2026-10-12 |
+| 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-12 |
 | 3524 | [Find X Value of Array I](3524-find-x-value-of-array-i/) | Medium | 2026-10-12 |
 | 835 | [Image Overlap](835-image-overlap/) | Medium | 2026-10-12 |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 2026-10-12 |
@@ -27,5 +28,5 @@ Solved: 23 (Easy: 2, Medium: 11, Hard: 9)
 | 19 | [Remove Nth Node From End of List](19-remove-nth-node-from-end-of-list/) | Medium | 2026-10-12 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-10-12 |
 |  | [swap-nodes-in-pairs](swap-nodes-in-pairs/) | Unknown | 2026-10-12 |
-| 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-12 |
+| 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
