@@ -1,10 +1,11 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 16 (Easy: 1, Medium: 8, Hard: 7)
+Solved: 17 (Easy: 1, Medium: 8, Hard: 7)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
+| 2 | [Add Two Numbers](2-add-two-numbers/) | Medium | 2026-10-12 |
 | 1096 | [Brace Expansion II](1096-brace-expansion-ii/) | Hard | 2026-10-12 |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | 2026-10-12 |
 | 1401 | [Circle and Rectangle Overlapping](1401-circle-and-rectangle-overlapping/) | Medium | 2026-10-12 |
@@ -20,5 +21,5 @@ Solved: 16 (Easy: 1, Medium: 8, Hard: 7)
 | 3414 | [Maximum Score of Non-overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals/) | Hard | 2026-10-12 |
 | 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/) | Medium | 2026-10-12 |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-10-12 |
-| 2 | [Add Two Numbers](2-add-two-numbers/) | Medium | 2026-10-12 |
+|  | [remove-nth-node-from-end-of-list](remove-nth-node-from-end-of-list/) | Unknown | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
