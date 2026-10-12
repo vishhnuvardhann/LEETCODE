@@ -1,11 +1,12 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 30 (Easy: 2, Medium: 17, Hard: 10)
+Solved: 31 (Easy: 2, Medium: 18, Hard: 10)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 15 | [3Sum](15-3sum/) | Medium | 2026-10-12 |
+| 16 | [3Sum Closest](16-3sum-closest/) | Medium | 2026-10-12 |
 | 2 | [Add Two Numbers](2-add-two-numbers/) | Medium | 2026-10-12 |
 | 1096 | [Brace Expansion II](1096-brace-expansion-ii/) | Hard | 2026-10-12 |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | 2026-10-12 |
@@ -34,5 +35,5 @@ Solved: 30 (Easy: 2, Medium: 17, Hard: 10)
 | 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-12 |
 | 239 | [Sliding Window Maximum](239-sliding-window-maximum/) | Hard | 2026-10-12 |
 |  | [swap-nodes-in-pairs](swap-nodes-in-pairs/) | Unknown | 2026-10-12 |
-| 16 | [3Sum Closest](16-3sum-closest/) | Medium | 2026-10-12 |
+| 47 | [Permutations II](47-permutations-ii/) | Medium | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
