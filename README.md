@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 20 (Easy: 2, Medium: 9, Hard: 8)
+Solved: 21 (Easy: 2, Medium: 9, Hard: 9)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -25,4 +25,5 @@ Solved: 20 (Easy: 2, Medium: 9, Hard: 8)
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-10-12 |
 | 19 | [Remove Nth Node From End of List](19-remove-nth-node-from-end-of-list/) | Medium | 2026-10-12 |
 |  | [swap-nodes-in-pairs](swap-nodes-in-pairs/) | Unknown | 2026-10-12 |
+| 4 | [Median of Two Sorted Arrays](4-median-of-two-sorted-arrays/) | Hard | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
